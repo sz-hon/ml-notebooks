@@ -27,7 +27,7 @@ These are notebooks developed for ECE-GY 6143 Intro to Machine Learning at NYU T
 
 ### Bias-variance tradeoff, model selection
   
-* Notebook: Bias-variance tradeoff and model selection in depth <a href="notebooks/3-bias-variance-model-selection-deep-dive.pdf"><img src="https://raw.githubusercontent.com/sz-hon/intro-ml-tss21/master/pdf.svg" alt="PDF" height="20px"></a>  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sz-hon/ml-notebooks/blob/master/notebooks/3-bias-variance-model-selection-deep-dive.ipynb)
+* Notebook: Bias-variance tradeoff and model selection in depth <a href="notebooks/3-bias-variance-model-selection-deep-dive.pdf"><img src="https://raw.githubusercontent.com/sz-hon/intro-ml-tss21/master/pdf.svg" alt="PDF" height="20px"></a>  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sz-hon/ml-notebooks/blob/master/notebooks/3-bias-variance-deep-dive.ipynb)
 * Notebook: Model order selection for neural data (homework)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RKVHfezDfY0ar6KB6QVkJNRpcJt20Tgy?usp=sharing)
 
 ### Regularization
